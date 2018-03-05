@@ -7,12 +7,20 @@
     <body>
     <center>
         <h1>Cadastro de clientes</h1>
-        <form>
+        <form method="post" action="cliente">
             <input type="text" placeholder="Nome" name="nome"><br><br>
             <input type="text" placeholder="Documento" name="documento"><br><br>
-            <input type="text" placeholder="Saldo" name="saldo"><br><br>
+            <input type="text" placeholder="Saldo" name="saldo"><br>
+            <input type="hidden" value="CadastroCliente" name="command"><br>
             <input type="submit" value="Cadastrar cliente">
         </form>
+        <div>
+            <br><a href="pedido.html"><button>Cadastrar Pedido</button></a>
+        <form method="post" action="cliente">
+            <input type="hidden" name="command" value="ListarClientes"><br>
+            <input type="submit" value="Listar todos os clientes">
+        </form>
+        </div>
     </center>
     </body>
 </html>

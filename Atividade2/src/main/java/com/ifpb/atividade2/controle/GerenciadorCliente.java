@@ -5,6 +5,7 @@ import com.ifpb.atividade2.factory.DaoFactory;
 import com.ifpb.atividade2.factory.DaoFactoryIF;
 import com.ifpb.atividade2.modelo.Cliente;
 import java.sql.SQLException;
+import java.util.List;
 
 public class GerenciadorCliente {
 
@@ -21,5 +22,11 @@ public class GerenciadorCliente {
         
         Cliente c = new Cliente(nome,documento,ativo,saldo);
         return dao.incluir(c);
+    }
+    
+    public List<Cliente> listarClientes() throws SQLException{
+        
+        List<Cliente> lista = dao.listar();
+        return lista;
     }
 }

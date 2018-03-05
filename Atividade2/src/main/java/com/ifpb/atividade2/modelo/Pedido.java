@@ -17,6 +17,10 @@ public class Pedido {
         this.valor = valor;
     }
 
+    public Pedido(){
+        
+    }
+    
     public int getId() {
         return id;
     }
