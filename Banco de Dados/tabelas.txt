@@ -1,0 +1,15 @@
+CREATE TABLE CLIENTE(
+	id serial primary key,
+	nome varchar,
+	documento varchar,
+	saldo real,
+	ativo boolean
+);
+
+CREATE TABLE Pedido(
+	id serial primary key,
+	data date,
+	cliente int,
+	valor real,
+	foreign key (cliente) references cliente(id)
+)
