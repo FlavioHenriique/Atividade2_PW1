@@ -1,10 +1,13 @@
 /home/flavio/ADS/4º Período/Programação para a Web I/Atividade2/Atividade2/src/main/java/com/ifpb/atividade2/command/ListarPedidos.java
+/home/flavio/ADS/4º Período/Programação para a Web I/Atividade2/Atividade2/src/main/java/com/ifpb/atividade2/servlets/LoginServlet.java
 /home/flavio/ADS/4º Período/Programação para a Web I/Atividade2/Atividade2/src/main/java/com/ifpb/atividade2/servlets/ParametrosServlet.java
 /home/flavio/ADS/4º Período/Programação para a Web I/Atividade2/Atividade2/src/main/java/com/ifpb/atividade2/controle/GerenciadorPedido.java
 /home/flavio/ADS/4º Período/Programação para a Web I/Atividade2/Atividade2/src/main/java/com/ifpb/atividade2/factory/ConFactory.java
+/home/flavio/ADS/4º Período/Programação para a Web I/Atividade2/Atividade2/src/main/java/com/ifpb/atividade2/servlets/PerfilServlet.java
 /home/flavio/ADS/4º Período/Programação para a Web I/Atividade2/Atividade2/src/main/java/com/ifpb/atividade2/servlets/PedidoServlet.java
 /home/flavio/ADS/4º Período/Programação para a Web I/Atividade2/Atividade2/src/main/java/com/ifpb/atividade2/factory/DaoFactoryIF.java
 /home/flavio/ADS/4º Período/Programação para a Web I/Atividade2/Atividade2/src/main/java/com/ifpb/atividade2/controle/GerenciadorCliente.java
+/home/flavio/ADS/4º Período/Programação para a Web I/Atividade2/Atividade2/src/main/java/com/ifpb/atividade2/servlets/LogoutServlet.java
 /home/flavio/ADS/4º Período/Programação para a Web I/Atividade2/Atividade2/src/main/java/com/ifpb/atividade2/modelo/Cliente.java
 /home/flavio/ADS/4º Período/Programação para a Web I/Atividade2/Atividade2/src/main/java/com/ifpb/atividade2/servlets/ClienteServlet.java
 /home/flavio/ADS/4º Período/Programação para a Web I/Atividade2/Atividade2/src/main/java/com/ifpb/atividade2/factory/DaoFactory.java
