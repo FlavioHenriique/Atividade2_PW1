@@ -1,11 +1,11 @@
+com/ifpb/atividade2/dao/ClienteDAO.class
+com/ifpb/atividade2/factory/DaoFactoryIF.class
 com/ifpb/atividade2/factory/ConFactory.class
 com/ifpb/atividade2/factory/DaoFactory.class
 com/ifpb/atividade2/command/Command.class
 com/ifpb/atividade2/factory/DaoFactoryBD.class
 com/ifpb/atividade2/modelo/Cliente.class
 com/ifpb/atividade2/servlets/ClienteServlet.class
-com/ifpb/atividade2/dao/ClienteDAO.class
 com/ifpb/atividade2/modelo/Pedido.class
 com/ifpb/atividade2/command/CadastroCliente.class
-com/ifpb/atividade2/factory/DaoFactoryIF.class
 com/ifpb/atividade2/controle/GerenciadorCliente.class
